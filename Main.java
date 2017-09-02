@@ -4,7 +4,7 @@ import java.util.Scanner;
 
 public class Main {
 	private static Scanner scanner = new Scanner(System.in);
-	private static CellPhone cellPhone = new CellPhone("232 323 2311");
+	private static CellPhone cellPhone = new CellPhone("");
 	public static void main(String[] args) {
 	
 	boolean quit= false;
